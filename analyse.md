@@ -33,11 +33,9 @@ De plus nous avons intégré les métadonnées suivantes, en fonction des dates 
 Notre choix de variables repose donc sur différentes catégories. En voici un exemple :
 
 | *date_XXXX      | *subject_XXXX     | *type_XXXX      |
-| ------------- | ------------- | ------------- |
-| *date_1969      | *subject_infocom      | *type_colloque_international      |
-| *date_XXXX        | *subject_communication       | *type_XXXX        |
-| *date_XXXX      | *subject_litterature      | *type_XXXX      |
-
+| 1950         | infocom      | articles scientifique      |
+| 1970        | histoire       | article       |
+| 1990      | sociologie      | discours    |
 
 [Lien vers la version .txt]()
 
