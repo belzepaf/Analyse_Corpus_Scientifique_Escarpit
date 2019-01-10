@@ -25,6 +25,8 @@ A noter que :
 **** : introduit chaque texte
 *nomvariable : crée une variable
 ~~~~
+De plus nous avons intégré les métadonnées suivantes: *date_XXXX , *subject_XXXX et *type_XXXX ;
+soit les date de publication de chacuns des textes, leurs sujets et leur type.
 
 [Lien vers la version .txt]()
 
