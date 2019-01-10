@@ -41,7 +41,7 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 ## Regroupement de textes
 
-Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language.
+Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse.
 
 # Analyse statistique
 
@@ -54,6 +54,15 @@ Nous avons décidé de procéder à plusieurs analyses en créant des __sous-cor
 ## Analyse des textes en anglais
 
 ## Analyse du texte en italien
+
+Résumé :
+* Nombre de textes : 1
+* Nombre d'occurences : 4321
+* Nombre de formes : 1200
+* Nombre d'hapax : 705 (16.32% des occurences - 58,75% des formes)
+* Moyenne d'occurences par texte : 4321.00
+
+![statistiqueita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/zipf.png)
 
 # Nuage de mots
 
