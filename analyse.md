@@ -6,7 +6,7 @@ date: 10/01/2019
 
 # Description du dossier
 
-Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient 23 textes de Robert Escarpit classés comme *"Articles et Communications scientifiques"*. C'est un compte-rendu de notre expérience qui présente ce que nous avons fait, ce que nous avons obtenu et notre avis. Vous pourrez retrouver tout notre dossier sur Google Drive en cliquant [ici]().
+Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient 23 textes de Robert Escarpit classés comme *"Articles et Communications scientifiques"*. C'est un compte-rendu de notre expérience qui présente ce que nous avons fait, ce que nous avons obtenu et notre avis. Vous pourrez retrouver tout notre dossier sur GitHub en cliquant [ici](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit).
 
 # Choix des métadonnées
 
