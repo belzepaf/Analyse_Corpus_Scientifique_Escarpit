@@ -28,7 +28,7 @@ A noter que :
 
 [Lien vers la version .txt]()
 
-Notre choix de variables est le suivante :
+Notre choix de variables est le suivant :
 
 * variable1
 * variable2
