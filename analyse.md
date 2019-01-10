@@ -28,12 +28,18 @@ A noter que :
 
 [Lien vers la version .txt]()
 
-Notre choix de variables est le suivant :
+Notre choix de variables repose sur différentes catégories.
 
-* variable1
-* variable2
-* variable3
-* variable4
+| Header 1      | Header 1      | Header 1      |
+| ------------- | ------------- | ------------- |
+| 1 Online      | 1 Online      | 1 Online      |
+| Line 2        | Line 2        | Line 2        |
+| 3 Online      | 3 Online      | 3 Online      |
+
+* subject_infocom
+* subject_communication / subject_litterature
+* type_colloque_international
+* date_1969
 
 Faire une liste à puces pour lister les données - les justifier
 
