@@ -1,5 +1,5 @@
 # Analyse_Corpus_Scientifique_Escarpit
-Évaluation Iramuteq, Markdown &amp; Pandoc, réalisé par Mélanie AUBRY et Cécile PORTAL, en 2ème année de Master DNHD
+Évaluation Iramuteq, Markdown &amp; Pandoc, réalisée par Mélanie AUBRY et Cécile PORTAL, en 2ème année de Master DNHD
 
 Vous retrouverez ici toute notre analyse de corpus pour le cours d'Arthur Perret.
 
