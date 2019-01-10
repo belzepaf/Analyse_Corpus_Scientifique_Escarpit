@@ -34,14 +34,10 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 | *date_XXXX      | *subject_XXXX     | *type_XXXX      |
 | ------------- | ------------- | ------------- |
-| 1 Online      | 1 Online      | 1 Online      |
-| Line 2        | Line 2        | Line 2        |
-| 3 Online      | 3 Online      | 3 Online      |
+| *date_1969      | *subject_infocom      | *type_colloque_international      |
+| *date_XXXX        | *subject_communication       | *type_XXXX        |
+| *date_XXXX      | *subject_litterature      | *type_XXXX      |
 
-* subject_infocom
-* subject_communication / subject_litterature
-* type_colloque_international
-* date_1969
 
 [Lien vers la version .txt]()
 
