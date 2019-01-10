@@ -25,10 +25,11 @@ A noter que :
 **** : introduit chaque texte
 *nomvariable : crée une variable
 ~~~~
-De plus nous avons intégré les métadonnées suivantes: *date_XXXX , *subject_XXXX et *type_XXXX ;
+De plus nous avons intégré les métadonnées suivantes: 
+* *date_XXXX
+* *subject_XXXX
+* *type_XXXX
 soit les date de publication de chacuns des textes, leurs sujets et leur type.
-
-[Lien vers la version .txt]()
 
 Notre choix de variables repose sur différentes catégories.
 
@@ -43,7 +44,7 @@ Notre choix de variables repose sur différentes catégories.
 * type_colloque_international
 * date_1969
 
-Faire une liste à puces pour lister les données - les justifier
+[Lien vers la version .txt]()
 
 ## Regroupement de textes
 
