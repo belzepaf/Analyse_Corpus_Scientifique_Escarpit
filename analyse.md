@@ -38,13 +38,22 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 | 1970        | histoire       | article       |
 | 1990      | sociologie      | discours    |
 
-[Lien vers la version .txt]()
 
 ## Regroupement de textes
 
-Les textes que l'ont choisi de mettre ensemble --> Sous corpus
+Nous avons décidé de procéder à plusieurs analyses en créant des sous-corpus. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language.
 
 # Analyse statistique
+
+## Analyse des textes en français
+
+### Analyse générale
+
+### Analyse par périodes
+
+## Analyse des textes en anglais
+
+## Analyse du texte en italien
 
 # Nuage de mots
 
