@@ -25,15 +25,14 @@ A noter que :
 **** : introduit chaque texte
 *nomvariable : crée une variable
 ~~~~
-De plus nous avons intégré les métadonnées suivantes: 
+De plus nous avons intégré les métadonnées suivantes, en fonction des dates de publication de chacun des textes, de leurs sujets et de leur type : 
 * *date_XXXX
 * *subject_XXXX
 * *type_XXXX
-soit les date de publication de chacuns des textes, leurs sujets et leur type.
 
-Notre choix de variables repose sur différentes catégories.
+Notre choix de variables repose donc sur différentes catégories. En voici un exemple :
 
-| Header 1      | Header 1      | Header 1      |
+| *date_XXXX      | *subject_XXXX     | *type_XXXX      |
 | ------------- | ------------- | ------------- |
 | 1 Online      | 1 Online      | 1 Online      |
 | Line 2        | Line 2        | Line 2        |
