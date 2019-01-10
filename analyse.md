@@ -41,7 +41,7 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 ## Regroupement de textes
 
-Nous avons décidé de procéder à plusieurs analyses en créant des sous-corpus. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language.
+Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language.
 
 # Analyse statistique
 
