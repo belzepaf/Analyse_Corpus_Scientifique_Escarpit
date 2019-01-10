@@ -34,9 +34,9 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 | *date_XXXX      | *subject_XXXX     | *type_XXXX      |
 | ------------- | ------------- | ------------- |
-| 1 Online      | 1 Online      | 1 Online      |
-| Line 2        | Line 2        | Line 2        |
-| 3 Online      | 3 Online      | 3 Online      |
+| 1950         | infocom      | articles scientifique      |
+| 1970        | histoire       | article       |
+| 1990      | sociologie      | discours    |
 
 * subject_infocom
 * subject_communication / subject_litterature
