@@ -11,10 +11,9 @@ Vous retrouverez ici toute notre analyse de corpus pour le cours d'Arthur Perret
 
 Les commandes Pandoc que nous avons utilisées sont les suivantes :
 
-~~~~
-C:\Users\Mao>pandoc -s -o test2.pdf analyse_pandoc.md
-C:\Users\Mao>pandoc -s -o test5.pdf --css pandoc.css analyse_pandoc.html
-~~~~
+`C:\Users\Mao>pandoc -s -o test2.pdf analyse_pandoc.md`
+
+`C:\Users\Mao>pandoc -s -o test5.pdf --css pandoc.css analyse_pandoc.html`
 
 Nous avons choisi GitHub pour la flexibilité et la facilité d'utilisation de la plateforme.
 
