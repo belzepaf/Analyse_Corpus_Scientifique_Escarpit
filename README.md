@@ -4,9 +4,9 @@
 
 Vous retrouverez ici toute notre analyse de corpus pour le cours d'Arthur Perret. En voici les liens directs :
 
-* [Lien vers le dossier d'analyse](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/analyse.md)
+* [__Lien vers le dossier d'analyse__](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/analyse.md)
 * [Liens vers les fichiers encodés .txt](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/tree/master/textes)
 * [Liens vers les images des différentes analyses](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/tree/master/images)
 
 En cas de problème ou de questions, n'hésitez pas à nous contacter via l'adresse mail suivante : 
-> aubry.melanie33@gmail.com.
+> aubry.melanie33@gmail.com
