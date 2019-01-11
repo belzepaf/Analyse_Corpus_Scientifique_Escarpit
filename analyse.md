@@ -138,12 +138,6 @@ Pour terminer, nous dirons que quelque soit la langue, Robert Escarpit reste fid
 
 # Analyse Chronologique des articles de Robert Escarpit
 
-## Graphe des modalités de la variable chronologique
-
-Nous avons réalisé comme demandé une analyse AFC avec comme modalités uniquement des variables chronologiques.
-
-![afc]()
-
 ## 1ère période : de 1940 à 1970
 
 ### Analyse statistique
