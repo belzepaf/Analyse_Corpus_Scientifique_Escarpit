@@ -41,7 +41,7 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 ## Regroupement de textes
 
-Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse. Enfin, dans seconde partie, nous nous attarderons sur la totalité des textes en faisant une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. 
+Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Tout d'abord, nous choisirons les méta-données de langue. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence (dictionnaires sur Iramuteq) et de compréhension. Nous les comparerons dans une petite conclusion. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse. Enfin, dans seconde partie, nous nous attarderons sur la totalité des textes en faisant une analyse par période, pour suivre l'évolution des thématiques Robert Escarpit au fil du temps. Après un bref compte-rendu, nous donnerons notre avis sur les travaux réalisés pour ce devoir. 
 
 # Analyse selon la langue
 
@@ -130,8 +130,25 @@ Avec ce classement par dendrogramme, on peut par la suite trouver une analyse fa
 
 ![graphita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/AFC2DL.png)
 
-## Conclusion
+## Raisonnement
 
 blablablabla
 
 # Analyse Chronologique des articles de Robert Escarpit
+
+## 1ère période : de 1940 à 1970
+
+## 2ème période : de 1970 à 1985
+
+## 3ème période : de 1970 à 1985
+
+## Raisonnement
+
+# Conclusion
+
+Tous les travaux que nous avons pu effectuer sur Iramuteq nous ont montré que l'aide logicielle à l'analyse est très prometteuse pour l'avenir. En plus d'apporter une analyse pertinente des oeuvres selon plus axes, l'analyse logicielle permet d'exploiter la digitalisation de l'oeuvre à son maximum, ce qui, pour les Humanités Digitales, est essentiel. Avoir travaillé non plus sur un texte, mais sur un corpus entier montre la multitude de possibilités pour analyser, étudier, comparer des textes. Nous aurions pu aussi comparer avec d'autres méta-données, mais le temps manquant, nous avons choisi de rester sur les deux plus importantes à nos yeux. Merci d'avoir pris le temps de lire ce compte-rendu. Pour finir, nous vous donnons une citation de Robert Escarpit, que l'on peut retrouver dans sa *Lettre ouverte au Diable* :
+
+> “Ne pas mentir, c'est dire ce qu'on sait, non ce qu'on croit savoir.”
+
+Mélanie AUBRY et Cécile PORTAL
+
