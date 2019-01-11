@@ -8,7 +8,7 @@ Vous retrouverez ici toute notre analyse de corpus pour le cours d'Arthur Perret
 * [Liens vers les fichiers encodés .txt](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/tree/master/textes)
 * [Liens vers les images des différentes analyses](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/tree/master/images)
 
-La commande Pandoc utilisée est la suivante :
+La commande Pandoc que nous avons utilisée est la suivante :
 
 ~~~~
 commande Pandoc
