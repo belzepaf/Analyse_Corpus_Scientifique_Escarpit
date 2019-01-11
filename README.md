@@ -14,5 +14,7 @@ La commande Pandoc utilisée est la suivante :
 commande Pandoc
 ~~~~
 
+Nous avons choisi GitHub pour la flexibilité et la facilité d'utilisation de la plateforme.
+
 En cas de problème ou de questions, n'hésitez pas à nous contacter via l'adresse mail suivante : 
 > aubry.melanie33@gmail.com
