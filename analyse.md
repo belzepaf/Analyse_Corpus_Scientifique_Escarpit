@@ -12,7 +12,7 @@ Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient
 
 ## Variables
 
-Nous avons regroupé tous les textes dans un même fichier .txt et encodé ceux-ci de la façon suivante :
+Nous avons regroupé tous les textes dans des fichiers .txt ([trouvables ici]()) et encodé ceux-ci de la façon suivante :
 
 ~~~~
 **** *variableX *variableX.1
@@ -41,17 +41,31 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 ## Regroupement de textes
 
-Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. Enfin, nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse.
+Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse. Enfin, dans une conclusion, nous nous attarderons sur la totalité des textes en faisant une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. 
 
 # Analyse statistique
 
 ## Analyse des textes en français
 
-### Analyse générale
+Résumé :
+* Nombre de textes : 19
+* Nombre d'occurences : 88001
+* Nombre de formes : 7511
+* Nombre d'hapax : 3410 (3.87% des occurences - 45.40% des formes)
+* Moyenne d'occurences par texte : 4631.63
 
-### Analyse par périodes
+![statistiquefr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/stats.png)
 
 ## Analyse des textes en anglais
+
+Résumé :
+* Nombre de textes : 3
+* Nombre d'occurences : 10207
+* Nombre de formes : 2244
+* Nombre d'hapax : 1210 (11.85% des occurences - 53.92% des formes)
+* Moyenne d'occurences par texte : 3402.33
+
+![statistiqueeng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/zipf.png)
 
 ## Analyse du texte en italien
 
@@ -59,21 +73,55 @@ Résumé :
 * Nombre de textes : 1
 * Nombre d'occurences : 4321
 * Nombre de formes : 1200
-* Nombre d'hapax : 705 (16.32% des occurences - 58,75% des formes)
+* Nombre d'hapax : 705 (16.32% des occurences - 58.75% des formes)
 * Moyenne d'occurences par texte : 4321.00
 
 ![statistiqueita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/zipf.png)
 
 # Nuage de mots
 
-txtxtxt
+## Nuage de mots en français
 
-# Analyse méthode Reinert - Dendrogramme
+![nuagefr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/nuage.png)
+
+## Nuage de mots en anglais
+
+![nuageita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/nuage_1.png)
+
+## Nuage de mots en italien
+
+![nuageita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/nuage_1.png)
+
+# Analyse méthode Reinert
 
 dendrogramme des classes lexicales
 
 ## Graphe des classes avec taille des mots proportionnelle à leur fréquence
 
+### Français
+
+![dendrofr]()
+
+### Anglais
+
+![dendroeng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/dendrogramme_1.png)
+
+### Italien
+
+![dendroita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/dendrogramme_1.png)
+
 ## Graphe des classes avec taille des mots proportionnelle à score de chi-2
 
-## Graphe des modalités de la variable chronologique
+### Français
+
+![graphfr]()
+
+### Anglais
+
+![grapheng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/AFC2DL.png)
+
+### Italien
+
+![graphita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/AFC2DL.png)
+
+# Analyse Chronologique des articles de Robert Escarpit
