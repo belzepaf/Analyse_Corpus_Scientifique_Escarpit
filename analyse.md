@@ -47,6 +47,8 @@ Nous avons décidé de procéder à plusieurs analyses en créant des __sous-cor
 
 ## Analyses statistiques
 
+Ce type d'analyse permet d'avoir plus de lisibilité en matière de compréhension et d'analyse du texte. La lemmatisation permet de réduire les verbes à leurs formes infinitives. Nous avons alors obtenu un schéma ainsi que plusieurs tableaux CSV permettant de voir la fréquence des mots dans l'oeuvre ainsi que leurs types (verbe, adjectif...).
+
 ### Analyse des textes en français
 
 Résumé :
@@ -96,7 +98,7 @@ Résumé :
 
 ## Analyse méthode Reinert
 
-dendrogramme des classes lexicales
+La classification de Reinert permet de classer les formes dans des classes de formes regroupées selon leur indépendance mesurée par un test au Chi². Ces mêmes classes peuvent alors être représentées à l'aide de différents arbres, comme ici avec des dendrogrammes des classes lexicales. Ce diagramme fournit la liste des formes les plus associées pour chaque classe. A noter qu’une forme peut se retrouver dans plusieurs classes différentes. Une classe est un regroupement de segments de texte qui contiennent des formes. Le graphique ci-dessus facilite le repérage des formes et leur degré de dépendance aux classes.
 
 ### Graphe des classes avec taille des mots proportionnelle à leur fréquence
 
@@ -112,7 +114,9 @@ dendrogramme des classes lexicales
 
 ![dendroita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/dendrogramme_1.png)
 
-### Graphe des classes avec taille des mots proportionnelle à score de chi-2
+### Graphe des classes avec taille des mots proportionnelle au score de chi-2
+
+Avec ce classement par dendrogramme, on peut par la suite trouver une analyse factorielle des correspondances (AFC) reliée au Chi², car le tableau donné par la classification de Reinert utilise des classes dans le tableau lexical. Ce type d'analyse va transformer les données sous forme de graphique a 2 dimensions, montrant la différence entre chaque groupe ou chaque classe de mots dans le but de hiérarchiser les informations des textes. On utilise pour cela plusieurs paramètres comme la fréquence des mots ou encore le type de variables.
 
 #### Français
 
@@ -125,5 +129,9 @@ dendrogramme des classes lexicales
 #### Italien
 
 ![graphita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/AFC2DL.png)
+
+## Conclusion
+
+blablablabla
 
 # Analyse Chronologique des articles de Robert Escarpit
