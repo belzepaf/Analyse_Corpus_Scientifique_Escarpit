@@ -176,11 +176,11 @@ Résumé :
 ### Analyse statistique
 
 Résumé :
-* Nombre de textes : 
-* Nombre d'occurences : 
-* Nombre de formes : 
-* Nombre d'hapax : 
-* Moyenne d'occurences par texte : 
+* Nombre de textes : 14
+* Nombre d'occurences : 57364 
+* Nombre de formes : 7678
+* Nombre d'hapax : 3977 (6.93% des occurences - 51.80% des formes)
+* Moyenne d'occurences par texte : 4097.43
 
 ![stats70-85]()
 
