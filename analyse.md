@@ -182,54 +182,56 @@ Résumé :
 * Nombre d'hapax : 3977 (6.93% des occurences - 51.80% des formes)
 * Moyenne d'occurences par texte : 4097.43
 
-![stats70-85]()
+![stats70-85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1970_1985/zipf.png)
 
 ### Nuage de mots
 
-![nuage70-85]()
+![nuage70-85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1970_1985/nuage_1.png)
 
 ### Analyse méthode Reinert
 
 #### Graphe des classes avec taille des mots proportionnelle à leur fréquence
 
-![dendro70-85]()
+![dendro70-85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1970_1985/dendro1970_1985.png)
 
 #### Graphe des classes avec taille des mots proportionnelle au score de chi-2
 
-![chi2-70-85]()
+![chi2-70-85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1970_1985/AFC2DL.png)
+
+Pour ce graphique, nous avons regretté le fait qu'on ne puisse sélectionner qu'un seul dictionnaire, français en l'occurence.
 
 ## 3ème période : à partir de 1985
 
 ### Analyse statistique
 
 Résumé :
-* Nombre de textes : 
-* Nombre d'occurences : 
-* Nombre de formes : 
-* Nombre d'hapax : 
-* Moyenne d'occurences par texte : 
+* Nombre de textes : 3
+* Nombre d'occurences : 13477
+* Nombre de formes : 2345
+* Nombre d'hapax : 1240(9.20% des occurences - 52.88% des formes)
+* Moyenne d'occurences par texte : 4492.33
 
-![stats85]()
+![stats85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1985_plus/zipf.png)
 
 ### Nuage de mots
 
-![nuage85]()
+![nuage85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1985_plus/nuage_1.png)
 
 ### Analyse méthode Reinert
 
 #### Graphe des classes avec taille des mots proportionnelle à leur fréquence
 
-![dendro85]()
+![dendro85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1985_plus/dendrogramme_1.png)
 
 #### Graphe des classes avec taille des mots proportionnelle au score de chi-2
 
-![chi2-85]()
+![chi2-85](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1985_plus/AFC2DL.png)
 
 ## Raisonnement
 
 # Conclusion
 
-Tous les travaux que nous avons pu effectuer sur Iramuteq nous ont montré que l'aide logicielle à l'analyse est très prometteuse pour l'avenir. En plus d'apporter une analyse pertinente des oeuvres selon plus axes, l'analyse logicielle permet d'exploiter la digitalisation de l'oeuvre à son maximum, ce qui, pour les Humanités Digitales, est essentiel. Avoir travaillé non plus sur un texte, mais sur un corpus entier montre la multitude de possibilités pour analyser, étudier, comparer des textes. Nous aurions pu aussi comparer avec d'autres méta-données, mais le temps manquant, nous avons choisi de rester sur les deux plus importantes à nos yeux. Merci d'avoir pris le temps de lire ce compte-rendu. Pour finir, nous vous donnons une citation de Robert Escarpit, que l'on peut retrouver dans sa *Lettre ouverte au Diable* :
+Cela a parfois été un peu compliqué de procéder à l'analyse, car certains textes ont été très mal corrigés et nous ont quelque peu ralenties. Mais tous les travaux que nous avons pu effectuer sur Iramuteq nous ont montré que l'aide logicielle à l'analyse est très prometteuse pour l'avenir. En plus d'apporter une analyse pertinente des oeuvres selon plus axes, l'analyse logicielle permet d'exploiter la digitalisation de l'oeuvre à son maximum, ce qui, pour les Humanités Digitales, est essentiel. Avoir travaillé non plus sur un texte, mais sur un corpus entier montre la multitude de possibilités pour analyser, étudier, comparer des textes. Nous aurions pu aussi comparer avec d'autres méta-données, mais le temps manquant, nous avons choisi de rester sur les deux plus importantes à nos yeux. Merci d'avoir pris le temps de lire ce compte-rendu. Pour finir, nous vous donnons une citation de Robert Escarpit, que l'on peut retrouver dans sa *Lettre ouverte au Diable* :
 
 > “Ne pas mentir, c'est dire ce qu'on sait, non ce qu'on croit savoir.”
 
