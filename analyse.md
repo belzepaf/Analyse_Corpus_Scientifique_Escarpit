@@ -138,9 +138,84 @@ blablablabla
 
 ## 1ère période : de 1940 à 1970
 
+### Analyse statistique
+
+Résumé :
+* Nombre de textes : 6
+* Nombre d'occurences : 35769
+* Nombre de formes : 4624
+* Nombre d'hapax : 2240 (6.26% des occurences - 48.44% des formes)
+* Moyenne d'occurences par texte : 5961.50
+
+![stats40-70](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1940_1970/stats.png)
+
+### Nuage de mots
+
+![nuage40-70](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1940_1970/nuage.png)
+
+### Analyse méthode Reinert
+
+#### Graphe des classes avec taille des mots proportionnelle à leur fréquence
+
+![dendro40-70](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1940_1970/dendro.png)
+
+#### Graphe des classes avec taille des mots proportionnelle au score de chi-2
+
+![chi2-40-70](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/1940_1970/chi2.png)
+
 ## 2ème période : de 1970 à 1985
 
-## 3ème période : de 1970 à 1985
+### Analyse statistique
+
+Résumé :
+* Nombre de textes : 
+* Nombre d'occurences : 
+* Nombre de formes : 
+* Nombre d'hapax : 
+* Moyenne d'occurences par texte : 
+
+![stats70-85]()
+
+### Nuage de mots
+
+![nuage70-85]()
+
+### Analyse méthode Reinert
+
+#### Graphe des classes avec taille des mots proportionnelle à leur fréquence
+
+![dendro70-85]()
+
+#### Graphe des classes avec taille des mots proportionnelle au score de chi-2
+
+![chi2-70-85]()
+
+## 3ème période : à partir de 1985
+
+### Analyse statistique
+
+Résumé :
+* Nombre de textes : 
+* Nombre d'occurences : 
+* Nombre de formes : 
+* Nombre d'hapax : 
+* Moyenne d'occurences par texte : 
+
+![stats85]()
+
+### Nuage de mots
+
+![nuage85]()
+
+### Analyse méthode Reinert
+
+#### Graphe des classes avec taille des mots proportionnelle à leur fréquence
+
+![dendro85]()
+
+#### Graphe des classes avec taille des mots proportionnelle au score de chi-2
+
+![chi2-85]()
 
 ## Raisonnement
 
