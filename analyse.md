@@ -41,11 +41,13 @@ Notre choix de variables repose donc sur différentes catégories. En voici un e
 
 ## Regroupement de textes
 
-Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse. Enfin, dans une conclusion, nous nous attarderons sur la totalité des textes en faisant une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. 
+Nous avons décidé de procéder à plusieurs analyses en créant des __sous-corpus__. Nous séparerons tout d'abord les 19 textes français des 3 textes en anglais et de celui en italien par souci de pertinence et de compréhension. Ensuite, une analyse générale des textes en français sera faite, puis nous analyserons le reste des textes en langue étrangère selon leur language. Nous ne retiendrons que __les formes actives__, car nous pensons que les formes supplémentaires ne sont __pas pertinentes__ pour une analyse. Enfin, dans seconde partie, nous nous attarderons sur la totalité des textes en faisant une analyse par période, pour suivre l'évolution de Robert Escarpit au fil du temps. 
 
-# Analyses statistiques
+# Analyse selon la langue
 
-## Analyse des textes en français
+## Analyses statistiques
+
+### Analyse des textes en français
 
 Résumé :
 * Nombre de textes : 19
@@ -56,7 +58,7 @@ Résumé :
 
 ![statistiquefr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/stats.png)
 
-## Analyse des textes en anglais
+### Analyse des textes en anglais
 
 Résumé :
 * Nombre de textes : 3
@@ -67,7 +69,7 @@ Résumé :
 
 ![statistiqueeng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/zipf.png)
 
-## Analyse du texte en italien
+### Analyse du texte en italien
 
 Résumé :
 * Nombre de textes : 1
@@ -78,49 +80,49 @@ Résumé :
 
 ![statistiqueita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/zipf.png)
 
-# Nuage de mots
+## Nuage de mots
 
-## Nuage de mots en français
+### Nuage de mots en français
 
 ![nuagefr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/nuage.png)
 
-## Nuage de mots en anglais
+### Nuage de mots en anglais
 
 ![nuageita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/nuage_1.png)
 
-## Nuage de mots en italien
+### Nuage de mots en italien
 
 ![nuageita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/nuage_1.png)
 
-# Analyse méthode Reinert
+## Analyse méthode Reinert
 
 dendrogramme des classes lexicales
 
-## Graphe des classes avec taille des mots proportionnelle à leur fréquence
+### Graphe des classes avec taille des mots proportionnelle à leur fréquence
 
-### Français
+#### Français
 
 ![dendrofr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/dendro.png)
 
-### Anglais
+#### Anglais
 
 ![dendroeng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/dendrogramme_1.png)
 
-### Italien
+#### Italien
 
 ![dendroita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/dendrogramme_1.png)
 
-## Graphe des classes avec taille des mots proportionnelle à score de chi-2
+### Graphe des classes avec taille des mots proportionnelle à score de chi-2
 
-### Français
+#### Français
 
 ![graphfr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/chi2.png)
 
-### Anglais
+#### Anglais
 
 ![grapheng](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/eng/AFC2DL.png)
 
-### Italien
+#### Italien
 
 ![graphita](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/ita/AFC2DL.png)
 
