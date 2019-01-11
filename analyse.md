@@ -6,13 +6,19 @@ date: 10/01/2019
 
 # Description du dossier
 
-Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient 23 textes de Robert Escarpit classés comme *"Articles et Communications scientifiques"*. C'est un compte-rendu de notre expérience qui présente ce que nous avons fait, ce que nous avons obtenu et notre avis. Vous pourrez retrouver tout notre dossier sur __GitHub__ en cliquant [ici](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit).
+Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient 23 textes de Robert Escarpit classés comme *"Articles et Communications scientifiques"*. C'est un compte-rendu de notre expérience qui présente ce que nous avons fait, ce que nous avons obtenu et notre avis. Vous pourrez retrouver tout notre dossier sur __GitHub__ en cliquant [ici](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit). Un autre fichier .md différent de GitHub a été créé pour faire marcher Pandoc. Voici ci-dessous les deux commandes __Pandoc__ utilisées :
+
+`C:\Users\Mao>pandoc -s -o test2.pdf analyse_pandoc.md`
+
+`C:\Users\Mao>pandoc -s -o test5.pdf --css pandoc.css analyse_pandoc.html`
+
+Pour convertir en PDF, nous avons été obligées de télécharger Miktex. Le seul souci de la version PDF est le positionnement des images, qui n'est pas comme sur notre markdown ou notre GitHub. En effet, les images se retrouvent décalées, et malgré plusieurs tests avec d'autres convertisseurs de Pandoc, le souci reste le même. Un test rapide en html a été fait pour vérifier le positionnement qui est correct dans cette version. Nous n'avions malheureusement pas exporté les images en .svg, pensant que le PDF irait.
 
 # Choix des métadonnées
 
 ## Variables
 
-Nous avons regroupé tous les textes dans des fichiers .txt ([trouvables ici]()) et encodé ceux-ci de la façon suivante :
+Nous avons regroupé tous les textes dans des fichiers .txt ([trouvables ici](https://drive.google.com/drive/folders/1uKWObmqrhRiuRvkmB4WG5raoO0-YYmvz)) et encodé ceux-ci de la façon suivante :
 
 ~~~~
 **** *variableX *variableX.1
