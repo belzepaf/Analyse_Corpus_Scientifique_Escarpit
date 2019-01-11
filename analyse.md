@@ -132,9 +132,17 @@ Avec ce classement par dendrogramme, on peut par la suite trouver une analyse fa
 
 ## Raisonnement
 
-blablablabla
+Nous avons tenté de comparer les textes dans différentes langues à l'aide de graphiques. Le point commun entre tous ces textes en anglais, en italien et français sont les thèmes de la communication, de la masse et du livre, bien que les articles divergent. En effet, les textes en anglais s'attardent en particulier sur Byron, tandis que celui en italien traite de la littérature en général. On peut voir que dans ses textes en français, Escarpit reste focalisé sur les thèmes qui lui sont chers : le livre, l'information et la communication. Les trois différents dendrogrammes possèdent quasiment le même nombre de classes, et on peut observer des similitudes entre le dendrogramme français et l'italien. Quant aux AFC, on peut observer par exemple que le mot communication a tendance à se retrouver au même endroit sur les graphiques pour les textes français et italien, un peu moins sur les textes en anglais.
+
+Pour terminer, nous dirons que quelque soit la langue, Robert Escarpit reste fidèle aux thèmes qui le touchent, mais cela ne l'empêche en rien d'avoir écrit de nombreux articles totalement différents dans leur fond.
 
 # Analyse Chronologique des articles de Robert Escarpit
+
+## Graphe des modalités de la variable chronologique
+
+Nous avons réalisé comme demandé une analyse AFC avec comme modalités uniquement des variables chronologiques.
+
+![afc]()
 
 ## 1ère période : de 1940 à 1970
 
