@@ -100,7 +100,7 @@ dendrogramme des classes lexicales
 
 ### Français
 
-![dendrofr]()
+![dendrofr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/dendro.png)
 
 ### Anglais
 
@@ -114,7 +114,7 @@ dendrogramme des classes lexicales
 
 ### Français
 
-![graphfr]()
+![graphfr](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/blob/master/images/fr/chi2.png)
 
 ### Anglais
 
