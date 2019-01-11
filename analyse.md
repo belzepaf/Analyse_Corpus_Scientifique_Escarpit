@@ -14,6 +14,8 @@ Ce dossier est une analyse de corpus réalisée sur Iramuteq. Ce corpus contient
 
 Pour convertir en PDF, nous avons été obligées de télécharger Miktex. Le seul souci de la version PDF est le positionnement des images, qui n'est pas comme sur notre markdown ou notre GitHub. En effet, les images se retrouvent décalées, et malgré plusieurs tests avec d'autres convertisseurs de Pandoc, le souci reste le même. Un test rapide en html a été fait pour vérifier le positionnement qui est correct dans cette version. Nous n'avions malheureusement pas exporté les images en .svg, pensant que le PDF irait.
 
+Vous pourrez retrouver notre dossier [__Pandoc__ ici](https://github.com/belzepaf/Analyse_Corpus_Scientifique_Escarpit/tree/master/evaluation_pandoc).
+
 # Choix des métadonnées
 
 ## Variables
